@@ -10,4 +10,4 @@ This repository contains several commits on `master` branch and two on feature b
 * Create a single commit with `git merge --squash`
 * Rewriting history with `git rebase`
 
-:train::cookie::cookie::cookie:
+:train::cookie::cookie::cookie: toot toot
